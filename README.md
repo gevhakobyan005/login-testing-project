@@ -3,6 +3,7 @@ This project focuses on manual testing of a sample login website that displays c
 
 ## Files
 | File | Purpose |
+|------|----------|
 | **test_cases.xlsx** | All test cases with expected vs actual results and pass/fail status |
 | **bug_reports.pdf** | Detailed bug reports with reproduction steps and severity |
 | **regression_results.txt** | Regression run results to verify consistent behavior |
