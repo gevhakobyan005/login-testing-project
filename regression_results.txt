@@ -1,0 +1,12 @@
+Regression Test – 12/29/2025
+
+Retested Cases:
+TC-01: PASS
+TC-02: PASS
+TC-04: PASS (Message still "Your username is invalid!" for empty fields)
+TC-07: PASS (Whitespace not trimmed; behavior unchanged)
+TC-10: PASS (Case sensitivity remains consistent)
+
+Notes:
+- Login functionality remains stable across core scenarios.
+- UX-related issues (BR-01, BR-02) still present but do not affect core login operation.
